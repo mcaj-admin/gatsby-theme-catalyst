@@ -7,13 +7,13 @@
   ],
   "name": "gatsby-theme-catalyst",
   "devDependencies": {
-    "@testing-library/cypress": "^7.0.0",
+    "@testing-library/cypress": "^7.0.1",
     "axe-core": "^4.0.1",
     "cypress": "^4.12.1",
     "cypress-axe": "^0.8.1",
-    "gatsby-cypress": "^0.4.10",
+    "gatsby-cypress": "^0.4.11",
     "lerna": "^3.22.1",
-    "start-server-and-test": "^1.11.3"
+    "start-server-and-test": "^1.11.4"
   },
   "scripts": {
     "develop:core": "yarn workspace gatsby-starter-catalyst-core develop",
