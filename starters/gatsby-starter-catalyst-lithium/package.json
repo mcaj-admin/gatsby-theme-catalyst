@@ -5,7 +5,7 @@
   "private": true,
   "author": "Eric Howey <eric@erichowey.dev>",
   "dependencies": {
-    "gatsby": "^2.24.58",
+    "gatsby": "^2.24.65",
     "gatsby-theme-catalyst-lithium": "^2.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -13,7 +13,7 @@
     "typeface-quando": "^0.0.72"
   },
   "devDependencies": {
-    "prettier": "^2.0.5"
+    "prettier": "^2.1.2"
   },
   "keywords": [
     "gatsby",
