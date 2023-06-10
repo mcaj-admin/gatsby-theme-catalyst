@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.24.58",
+    "gatsby": "^5.10.0",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
